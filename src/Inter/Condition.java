@@ -1,11 +1,8 @@
 package Inter;
 
 public enum Condition {
-    Warm,
-    Frozen,
-    Hunger,
-    Sleepiness,
-    Hidden,
-    Pain,
-    Uncomfortable
+    Dryness_in_air,
+    Panic,
+    Scared,
+    Numb;
 }
